@@ -9,3 +9,12 @@ def my_function(fname, lname):
 
 my_function("Emil", "Refsnes")
 
+# while loop
+i = 1
+while i < 0 :
+   print (i)
+   if (i == 3):
+    break
+i+= 1
+
+
